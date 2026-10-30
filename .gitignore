@@ -1,0 +1,5 @@
+.DS_Store
+build/
+tools/preview
+tools/frames/
+*.mp4
